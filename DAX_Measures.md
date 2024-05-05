@@ -1,3 +1,5 @@
+![PeakPoint_Sales](https://github.com/HarshaFarenjiya/PeakPoint-Solutions-Sales-Trend/assets/117337376/4c4bba27-70d9-4533-94a6-c59151985f07)
+
 # DAX Measures used:
 <div align="justify">
 Following DAX queries provided a comprehensive analysis of sales performance, target achievement, and YTD comparisons, enabling stakeholders to gain valuable insights for decision-making and strategic planning:
