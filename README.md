@@ -1,7 +1,7 @@
 ![importpostgres(1)](https://github.com/HarshaFarenjiya/PeakPoint-Solutions-Sales-Trend/assets/117337376/9640ef4f-356b-4d6e-a4a4-8eb4932e9a25)
 
 # PeakPoint-Solutions-Sales-Trend
-
+<div align="justify">
 ## Overview
 PeakPoint Solutions, a hypothetical company specializing in sales solutions, maintains a comprehensive dataset to track the performance of its sales team. This dataset, structured within an Excel workbook, encompasses four distinct worksheets, each serving a specific purpose in analyzing sales data, setting targets, and providing supplementary information about the sales personnel.
 
@@ -68,3 +68,4 @@ Following DAX queries provided a comprehensive analysis of sales performance, ta
 
 12. **YTD Variance %:**
     - This query calculated the YTD percentage variance between actual and target sales.
+</div>
