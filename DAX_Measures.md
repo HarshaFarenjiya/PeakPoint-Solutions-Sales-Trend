@@ -1,7 +1,5 @@
-<div style="text-align: justify;">
-
-
 # DAX Measures used:
+<div align="justify">
 Following DAX queries provided a comprehensive analysis of sales performance, target achievement, and YTD comparisons, enabling stakeholders to gain valuable insights for decision-making and strategic planning:
 
 1. **Months Target Reached:**
