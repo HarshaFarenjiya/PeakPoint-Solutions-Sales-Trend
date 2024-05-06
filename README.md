@@ -25,4 +25,21 @@ The fourth and final worksheet, named "DimPeople," provides supplementary detail
 - **Team**: Here, the corresponding teams to which the salespersons belong are listed. This information offers insights into team structures and organizational hierarchies within PeakPoint Solutions.
 - **Picture**: The third column contains URLs linking to images of the respective salespersons. These visual representations serve to personalize the dataset and facilitate easy identification of team members.
 
+## Data Pre-processing
+
+### 1. Promotion of Headers:
+- The first row of data in each sheet has been promoted as headers. This step assumes that the first row contains column headers, facilitating better readability and interpretation of the data.
+
+### 2. Correction of Data Types:
+- Data types across columns have been standardized and corrected as needed. This ensures consistency in data representation and prevents potential errors during analysis.
+
+### 3. Reshaping Data:
+- In the Actual and Target sheets, data has been reshaped by unpivoting columns except for the "Sales Person" column. This transformation converts the data from a wide format to a long format, facilitating easier analysis.
+
+### 4. Column Renaming:
+- Column names have been adjusted for clarity and consistency across all sheets. This makes it easier to understand the content of each column and ensures uniformity in naming conventions.
+
+### 5. Addition of New Columns:
+- In the Date sheet, additional columns for "Year", "Month", and "Month Name" have been derived. This enhancement provides further insights into the temporal aspects of the data.
+
 </div>
